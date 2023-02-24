@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/adam-paterson/skeleton-php/master/docs/example.png" height="300" alt="Skeleton Php">
     <p align="center">
         <a href="https://github.com/adam-paterson/skeleton-php/actions">
-            <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/adam-paterson/skeleton-php/test.yml?style=for-the-badge">
+            <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/adam-paterson/skeleton-php/tests.yml?style=for-the-badge">
             </a>
         <a href="https://packagist.org/packages/adam-paterson/skeleton-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/adam-paterson/skeleton-php?style=for-the-badge"></a>
         <a href="https://packagist.org/packages/adam-paterson/skeleton-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/adam-paterson/skeleton-php?style=for-the-badge"></a>
